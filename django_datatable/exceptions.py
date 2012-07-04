@@ -1,0 +1,3 @@
+
+class FieldNotDefined(Exception):
+    pass
